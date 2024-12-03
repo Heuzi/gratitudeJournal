@@ -1,0 +1,30 @@
+allow delete journal
+
+testing on ios
+
+request 
+https://ext.dcloud.net.cn/plugin?id=392
+https://ext.dcloud.net.cn/plugin?id=946
+
+server side code
+https://gist.github.com/bradmontgomery/2219997
+https://gist.github.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7
+
+re-test on android
+VERY IMPORTANT  submitting mechanism. submitting to a server
+
+
+notification mechanism.
+a enable/disable setting.
+a time picker
+
+
+color, font
+auto save
+about page
+allow exporting plus.storage files into a json file
+option. showing old journal content, date, title.
+
+
+debug
+change title in notepad vue, does it also change in the index when I go back?

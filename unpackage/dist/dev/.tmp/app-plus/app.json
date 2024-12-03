@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/notepad/notepad",
+    "pages/setting/setting",
+    "pages/about/about",
+    "pages/notepad1/notepad1",
+    "pages/notepad2/notepad2",
+    "pages/examples/examples"
+  ],
+  "window": {
+    "navigationStyle": "default",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Gratitude Journal",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "GratitudeJournal",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {}
+}
